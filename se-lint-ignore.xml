@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="little-men-of-space.xhtml">
+		<ignore>
+			<code>y-029</code>
+			<reason>Emphasis of a specific syllable.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
