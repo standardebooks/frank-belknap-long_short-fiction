@@ -48,8 +48,6 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
-		<!-- At the Home of Poe - The United Amateur, 1922-05 -->
-		<dc:source>https://www.gutenberg.org/ebooks/30637</dc:source>
 		<!-- The Hounds of Tindalos - Weird Tales, 1929-03 -->
 		<dc:source>https://www.gutenberg.org/ebooks/73575</dc:source>
 		<dc:source>https://archive.org/details/Weird_Tales_v13n03_1929-03_sas</dc:source>
@@ -104,7 +102,7 @@
 		<!-- Two Way Destiny - Fantastic Universe, 1954-10 -->
 		<dc:source>https://www.gutenberg.org/ebooks/74288</dc:source>
 		<dc:source>https://archive.org/details/Fantastic_Universe_v02n03_1954-10</dc:source>
-		<meta property="se:production-notes">No scans seemingly available for “At the Home of Poe”</meta>
+		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Frank_Belknap_Long#Novels_&amp;_Short_Stories</meta>
@@ -120,28 +118,25 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Fritz_Stuckenberg</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n92119145</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">David Starner</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Starner, David</meta>
+		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Stephen Blundell</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Blundell, Stephen</meta>
+		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Greg Weeks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Weeks, Greg</meta>
+		<dc:contributor id="transcriber-3">Alexander Bauer</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Bauer, Alexander</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-4">Mary Meehan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-4">Meehan, Mary</meta>
+		<dc:contributor id="transcriber-4">Stephen Blundell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Blundell, Stephen</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-5">Alexander Bauer</dc:contributor>
-		<meta property="file-as" refines="#transcriber-5">Bauer, Alexander</meta>
+		<dc:contributor id="transcriber-5">Joel Schlosberg</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Schlosberg, Joel</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-6">Joel Schlosberg</dc:contributor>
-		<meta property="file-as" refines="#transcriber-6">Schlosberg, Joel</meta>
+		<dc:contributor id="transcriber-6">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-6">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-7">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-7">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-7">https://pgdp.net</meta>
-		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com/</meta>
@@ -160,7 +155,6 @@
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/and-we-sailed-the-mighty-dark.xhtml" id="and-we-sailed-the-mighty-dark.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/at-the-home-of-poe.xhtml" id="at-the-home-of-poe.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/lake-of-fire.xhtml" id="lake-of-fire.xhtml" media-type="application/xhtml+xml"/>
@@ -187,7 +181,6 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="at-the-home-of-poe.xhtml"/>
 		<itemref idref="the-hounds-of-tindalos.xhtml"/>
 		<itemref idref="the-red-fetish.xhtml"/>
 		<itemref idref="the-vibration-wasps.xhtml"/>
