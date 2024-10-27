@@ -43,9 +43,11 @@
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of short fiction by Frank Belknap Long, ordered by date of original publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/frank-belknap-long"&gt;Frank Belknap Long&lt;/a&gt; started his literary career as a teenager in the 1920s by drawing on his deep appreciation for &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe"&gt;Edgar Allan Poe&lt;/a&gt;; his initial work brought him into the sphere of &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;&lt;abbr&gt;H. P.&lt;/abbr&gt; Lovecraft&lt;/a&gt;, who became a friend and strong influence. “The Hounds of Tindalos,” contained here, was the first story outside of Lovecraft’s work to be part of the Cthulu Mythos.&lt;/p&gt;
+			&lt;p&gt;By the end of the 1930s Long had turned his hand to science fiction, and this became his primary genre for most of the rest of his long career as a regular in pulp magazines like &lt;i&gt;Weird Tales&lt;/i&gt;, &lt;i&gt;Comet&lt;/i&gt;, &lt;i&gt;Planet Stories&lt;/i&gt; and &lt;i&gt;Fantastic Universe&lt;/i&gt;. While many of his contemporaries moved towards “harder” science fiction, Long’s work focuses on human psychology, often with a streak of the horror of his earlier writing coming through in the loneliness and alien nature of the space travel and worlds that his stories visit.&lt;/p&gt;
+			&lt;p&gt;The short stories in this collection are those currently known to have passed into the U.S. public domain, arranged in order of publication.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- The Hounds of Tindalos - Weird Tales, 1929-03 -->
@@ -102,7 +104,6 @@
 		<!-- Two Way Destiny - Fantastic Universe, 1954-10 -->
 		<dc:source>https://www.gutenberg.org/ebooks/74288</dc:source>
 		<dc:source>https://archive.org/details/Fantastic_Universe_v02n03_1954-10</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Frank_Belknap_Long#Novels_&amp;_Short_Stories</meta>
