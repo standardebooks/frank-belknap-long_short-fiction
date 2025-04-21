@@ -43,6 +43,7 @@
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of short fiction by Frank Belknap Long, ordered by date of original publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/frank-belknap-long"&gt;Frank Belknap Long&lt;/a&gt; started his literary career as a teenager in the 1920s by drawing on his deep appreciation for &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe"&gt;Edgar Allan Poe&lt;/a&gt;; his initial work brought him into the sphere of &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;H. P. Lovecraft&lt;/a&gt;, who became a friend and strong influence—so strong, that Long’s short story “The Hounds of Tindalos” was the first story not by Lovecraft’s to be part of the Cthulhu Mythos.&lt;/p&gt;
