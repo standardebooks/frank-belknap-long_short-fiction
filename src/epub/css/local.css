@@ -5,6 +5,10 @@ q{
 	font-style: italic;
 }
 
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
+}
+
 header{
 	font-variant: small-caps;
 	margin: 1em;
