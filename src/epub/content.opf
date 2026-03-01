@@ -112,7 +112,7 @@
 		<!-- Young Man with a Trumpet - Fantastic Universe, 1956-02 -->
 		<dc:source>https://www.gutenberg.org/ebooks/77664</dc:source>
 		<dc:source>https://archive.org/details/Fantastic_Universe_v05n01_1956-02</dc:source>
-		<meta property="se:word-count">105945</meta>
+		<meta property="se:word-count">107560</meta>
 		<meta property="se:reading-ease.flesch">74.9</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Frank_Belknap_Long#Novels_&amp;_Short_Stories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frank-belknap-long_short-fiction</meta>
@@ -142,10 +142,13 @@
 		<dc:contributor id="transcriber-5">Joel Schlosberg</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Schlosberg, Joel</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-6">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-6">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-6">https://www.pgdp.net/</meta>
+		<dc:contributor id="transcriber-6">Tom Trussel</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Trussel, Tom</meta>
 		<meta property="role" refines="#transcriber-6" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-7">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-7">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-7">https://www.pgdp.net/</meta>
+		<meta property="role" refines="#transcriber-7" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com/</meta>
